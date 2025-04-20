@@ -13,10 +13,19 @@
   
   - ## Trabalho:
     - [ ] codigo:
+      - [ ] plots sobre o dataset
+        - [ ] tabela com histograma de cada atributo
+        - [ ] matriz de correlação(heatmap) de cada 
+      - [ ] alterações no dataset
+        - [ ] remoção da coluna id
+        - [ ] remoção de colunas redundates
+      - [ ] construção da
+      - [ ] 
+
       - [ ] verificação e correção de atributos com campos faltantes
       - [ ] conversão das variaveis **qualitativas** para **quantitativas**
+      - [ ] adicionar plot da matriz de confusão
       - [ ] plot da matriz de correlação entre os atributos (seaborn heatmap)
-      - [ ] plot 
       - [ ] separação da coluna target
       - [ ] separação 
       - [ ] 
