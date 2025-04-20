@@ -15,13 +15,10 @@
     - [ ] codigo:
       - [ ] plots sobre o dataset
         - [ ] tabela com histograma de cada atributo
-        - [ ] matriz de correlação(heatmap) de cada 
+        - [ ] matriz de correlação(heatmap) do dataframe
       - [ ] alterações no dataset
         - [ ] remoção da coluna id
-        - [ ] remoção de colunas redundates
-      - [ ] construção da
-      - [ ] 
-
+        - [ ] remoção de colunas redundantes
       - [ ] verificação e correção de atributos com campos faltantes
       - [ ] conversão das variaveis **qualitativas** para **quantitativas**
       - [ ] adicionar plot da matriz de confusão
