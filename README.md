@@ -1,18 +1,17 @@
 ---
 --- 
 
-* Tarefas:
+* # Tarefas:
 
-  - Preparação:
+  - ## Preparação:
     - [x] decidir opções de plataformas
         - opção: google colab (não é possível editar ao mesmo tempo com colaboradores)
         - opção: kaggle (não conhecemos a plataforma 😕)
         - opção: vscode (live-share) (escolhido!)
     - [x] baixar os codigos de exemplo da aula 
-    - [x] baixar o dataset do trabalho (brest_cancer)
-    - [ ] buscar a melhor performance com **redes neurais** aplicadas no dataset Breast_Cancer recordada do kaggle
+    - [x] baixar o dataset do trabalho (breast_cancer)
   
-  - Trabalho:
+  - ## Trabalho:
     - [ ] codigo:
       - [ ] verificação e correção de atributos com campos faltantes
       - [ ] conversão das variaveis **qualitativas** para **quantitativas**
@@ -24,9 +23,8 @@
     - [ ] slide:
 
 --- 
----  
 
-* Anotações:
+* # Anotações:
   - Usar dataset Breast Cancer Wisconsin, kaggle
   - id paciente, M maligno ou B benigno.
   - Interesse no raio medio tumor, tipo de textura, perimetro, cotraste...x1,x2...
@@ -35,10 +33,10 @@
   - Fazer o diagrama da rede neural
   - Grafico acuracia, testes e validação, grafico de perdas, precisão, f1score...
   - Categorica - letras, continua - numeros 
----   
---- 
 
-* Bibliotecas:  
+---   
+
+* # Bibliotecas:  
   - tensorflow 
   - scikit-learn 
   - numpy 
@@ -46,4 +44,5 @@
   - matplotlib 
   - seaborn
   - jinja2
+
 --- 
