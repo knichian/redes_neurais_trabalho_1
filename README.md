@@ -18,7 +18,7 @@
         - [ ] matriz de correlação(heatmap) do dataframe
       - [ ] alterações no dataset
         - [ ] remoção da coluna id
-        - [ ] remoção de colunas redundantes
+        - [ ] remoção de colunas redundantes 
       - [ ] verificação e correção de atributos com campos faltantes
       - [ ] conversão das variaveis **qualitativas** para **quantitativas**
       - [ ] adicionar plot da matriz de confusão
